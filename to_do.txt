@@ -1,0 +1,19 @@
+1. create the view pages
+
+2. style the view pages
+
+3. signin and signup system
+
+4. post new confession (may post anonymously)
+
+5. view one's confessions
+
+6. delete one's confessions
+
+7. view someone's profile and see public confessions (anonymous confessions made by the user will only be visible to him)
+
+8. flag any confession
+
+9. like any confession 
+
+10. share any confession
